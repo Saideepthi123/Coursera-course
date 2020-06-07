@@ -28,7 +28,7 @@ WebGL is not supported in your local browser, so to open and play follow the fol
 
 >FireFox
 
-1.In your web address type about:config                                                                                                  2.Search for privacy.file_unique_origin                                                                                                 
+1.In your web address type about:config                                                                                                 2.Search for privacy.file_unique_origin                                                                                                 
 3.Change it's boolean value to false 
-
+                                                                                                  
 Try these games :)
