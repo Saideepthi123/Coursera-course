@@ -20,10 +20,16 @@ the use of custom written scripts in C#, using code to dynamically modify gameOb
 creating visual polish through the use of particles, effects, and animations, triggering animations through code and the animator, 
 
 WebGL is not supported in your local browser, so to open and play follow the following steps 
+>Chrome
+
+1.In your web address typr chrome://flags
+2.Search for WebGL 2.0 Compute and WebGL Draft Extensions
+3.Change those values to Enable
+
 >FireFox
 
 1.In your web address type about:config                                                                                                 
-2. Search for privacy.file_unique_origin                                                                                                 
-3. Change it's boolean value to false
+2.Search for privacy.file_unique_origin                                                                                                 
+3.Change it's boolean value to false
 
 Try these games :)
